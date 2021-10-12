@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaithriB&label=Profile%20views&color=129e00&style=plastic" alt="MaithriB" /> </p>
-<img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
+<img align="right" alt="Coding" width="300" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
 <h2> Hi there👋 </h2>
 
